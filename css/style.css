@@ -1,6 +1,5 @@
-/* reset css */
 * {
-  margin: 1;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -8,24 +7,30 @@
 .address-info {
   color: gray;
   font-size: 20px;
+  margin: 10px;
 }
 .data-info {
   color: gray;
   font-size: 15px;
+  margin: 10px;
 }
 .img1 {
   padding-top: 20px;
+  margin: 10px;
 }
 .img1-text {
   font-size: 15px;
+  margin: 10px;
 }
 .text {
   font-size: 20px;
-  padding-bottom: 10px;
+  padding: 10px;
+  margin: 10px;
 }
 .ul-list {
   font-size: 20px;
-  padding-left: 0%;
+  padding: 20px;
+  margin: 10px;
 }
 .table1 {
   font-size: 20px;
@@ -45,6 +50,7 @@
 .foot-header {
   color: gray;
   font-size: 20px;
+  margin: 10px;
 }
 .lorem-1 {
   font-size: 25px;
@@ -52,6 +58,8 @@
   background-image: url("../img/monitor.jpg");
   width: 300px;
   height: 200px;
+  margin: 10px;
+  padding: 10px;
 }
 .lorem-2 {
   font-size: 25px;
@@ -60,6 +68,8 @@
   width: 300px;
   height: 200px;
   border-left: 20px;
+  margin: 10px;
+  padding: 10px;
 }
 .header-logo {
   background-color: rgb(0, 153, 255);
@@ -73,6 +83,7 @@
 .body-header {
   font-size: 30px;
   text-align: justify;
+  margin: 10px;
 }
 
 table,
@@ -81,6 +92,7 @@ td {
   border: 0;
   border-collapse: collapse;
   width: 300px;
+  margin: 10px;
 }
 a {
   text-decoration: none;
